@@ -19,10 +19,10 @@ A Spring Boot-based Employee Management System that integrates with MongoDB for 
 
 ## API Endpoints
 
-### POST `/api/employees/`
+### POST /api/employees/
 Create a new employee.
 
-#### Request Body:
+**Request Body**:
 ```json
 {
     "name": "John",
@@ -53,21 +53,21 @@ Delete an employee by ID.
 
 Installation
 
-//Clone the repository:
+# Clone the repository:
 git clone https://github.com/username/employee-management-system.git
 
-//Navigate to the project directory:
+# Navigate to the project directory:
 cd employee-management-system
 
-77Build and run the application using Gradle:
+# Build and run the application using Gradle:
 ./gradlew bootRun
+
 
 The application will be running at http://localhost:8080.
 
+------------------------------------------------------------------------------------------
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contributing
 Feel free to fork the project and submit pull requests. Contributions are always welcome!
-
-
