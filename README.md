@@ -39,19 +39,19 @@ Create a new employee.
 }
 
 
-GET /api/employees/
+### GET /api/employees/
 Retrieve a list of all employees.
 
-GET /api/employees/{id}
+### GET /api/employees/{id}
 Retrieve an employee by ID.
 
-PUT /api/employees/{id}
+### PUT /api/employees/{id}
 Update an existing employee by ID.
 
-DELETE /api/employees/{id}
+### DELETE /api/employees/{id}
 Delete an employee by ID.
 
-Installation
+## Installation
 
 # Clone the repository:
 git clone https://github.com/username/employee-management-system.git
@@ -63,11 +63,11 @@ cd employee-management-system
 ./gradlew bootRun
 
 
-The application will be running at http://localhost:8080.
+## The application will be running at http://localhost:8080.
 
 ------------------------------------------------------------------------------------------
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+## Contributing
 Feel free to fork the project and submit pull requests. Contributions are always welcome!
