@@ -35,8 +35,10 @@ Update an existing employee by ID.
 Delete an employee by ID.
 
 ## Installation
-# Clone the repository:
+** Clone the repository:**
+'''bash
 git clone https://github.com/username/employee-management-system.git
+'''bash
 
 # Navigate to the project directory:
 cd employee-management-system
