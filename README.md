@@ -52,21 +52,16 @@ DELETE /api/employees/{id}
 Delete an employee by ID.
 
 Installation
-Clone the repository:
 
-bash
-
+//Clone the repository:
 git clone https://github.com/username/employee-management-system.git
-Navigate to the project directory:
 
-bash
-
+//Navigate to the project directory:
 cd employee-management-system
-Build and run the application using Gradle:
 
-bash
-
+77Build and run the application using Gradle:
 ./gradlew bootRun
+
 The application will be running at http://localhost:8080.
 
 License
