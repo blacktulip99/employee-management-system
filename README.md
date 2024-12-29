@@ -36,15 +36,18 @@ Delete an employee by ID.
 
 ## Installation
 ** Clone the repository:**
-'''bash
-git clone https://github.com/username/employee-management-system.git
-'''bash
 
-# Navigate to the project directory:
-cd employee-management-system
+    git clone https://github.com/username/employee-management-system.git
 
-# Build and run the application using Gradle:
-./gradlew bootRun
+
+** Navigate to the project directory: **
+    
+    cd employee-management-system
+
+** Build and run the application using Gradle: **
+
+    ./gradlew bootRun
+    
 ------------------------------------------------------------------------------------------
 
 ## The application will be running at http://localhost:8080.
